@@ -18,11 +18,3 @@ A navegação pelas minhas informações profissionais, projetos e habilidades e
 * **Setas (Esquerda / Direita):** Movimentação do personagem.
 * **Barra de Espaço:** Pulo.
 * **Tecla 'E':** Interação com os objetos do cenário (abre modais informativos, links para repositórios e inicia os desafios do Quiz).
-
-## Como Testar Localmente
-
-A arquitetura do projeto é leve e não exige gerenciadores de pacotes ou instalação de dependências para rodar.
-
-1. Faça o clone deste repositório:
-   ```bash
-   git clone [https://github.com/Rafael-Boaro/portfolio-gamificado.git](https://github.com/Rafael-Boaro/portfolio-gamificado.git)
